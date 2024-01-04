@@ -1,7 +1,5 @@
 # In No Particular Order 
 
-PRs welcomed (merge is subject to personal amusement).
-
 #### AirPods <> FaceTime interaction increasingly becoming an open joke.
 
 #### `lldb` being unable to inspect local Swift variables in 2024. Swift was released almost a decade ago.
@@ -13,3 +11,7 @@ PRs welcomed (merge is subject to personal amusement).
 #### Messages app search indexing (or lack thereof).
 
 #### Xcode
+
+---
+
+PRs welcomed (merging is at the discretion of my personal amusement).
