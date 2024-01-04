@@ -12,6 +12,10 @@
 
 #### Xcode
 
+#### `NSTrackingSeparatorToolbarItem` which was added the same year SwiftUI app lifecycle released, is still not available from SwiftUI.
+
+#### Focus state management in SwiftUI. Or out of SwiftUI. Anything to do with responder chain in macOS feels intentionally designed to traumatize developers.
+
 ---
 
 PRs welcomed (merging is at the discretion of my personal amusement).
