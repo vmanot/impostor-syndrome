@@ -12,6 +12,17 @@
 
 #### Xcode
 
+### SwiftUI
+
+### `List` There is still no definitive way to keep the scroll position
+
+### `List` Prepending items while scrolling makes the list lag and loses its position
+
+### `List` Micro stuttering even with simple row views 
+
+### `List` No control over animations when updating the state
+
+
 ---
 
 PRs welcomed (merging is at the discretion of my personal amusement).
