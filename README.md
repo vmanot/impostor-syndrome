@@ -1,5 +1,7 @@
 # In No Particular Order 
 
+### @vmanot
+
 #### AirPods <> FaceTime interaction increasingly becoming an open joke.
 
 #### `lldb` being unable to inspect local Swift variables in 2024. Swift was released almost a decade ago.
@@ -11,6 +13,18 @@
 #### Messages app search indexing (or lack thereof).
 
 #### Xcode
+
+### @dimillian
+
+#### `List` There is still no definitive way to keep the scroll position
+
+#### `List` Prepending items while scrolling makes the list lag and loses its position
+
+#### `List` Micro stuttering even with simple row views 
+
+#### `List` No control over animations when updating the state
+
+### @rdev
 
 #### `NSTrackingSeparatorToolbarItem` which was added the same year SwiftUI app lifecycle released, is still not available from SwiftUI.
 
