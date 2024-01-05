@@ -1,5 +1,7 @@
 # In No Particular Order 
 
+### @vmanot
+
 #### AirPods <> FaceTime interaction increasingly becoming an open joke.
 
 #### `lldb` being unable to inspect local Swift variables in 2024. Swift was released almost a decade ago.
@@ -12,7 +14,7 @@
 
 #### Xcode
 
-### SwiftUI
+### @dimillian
 
 #### `List` There is still no definitive way to keep the scroll position
 
@@ -22,6 +24,11 @@
 
 #### `List` No control over animations when updating the state
 
+### @rdev
+
+#### `NSTrackingSeparatorToolbarItem` which was added the same year SwiftUI app lifecycle released, is still not available from SwiftUI.
+
+#### Focus state management in SwiftUI. Or out of SwiftUI. Anything to do with responder chain in macOS feels intentionally designed to traumatize developers.
 
 ---
 
