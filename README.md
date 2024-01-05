@@ -33,3 +33,5 @@
 ---
 
 PRs welcomed (merging is at the discretion of my personal amusement).
+
+Be civil. **Do not** target people. Highlight the obscene.
