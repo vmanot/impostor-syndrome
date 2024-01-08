@@ -30,7 +30,9 @@
 
 #### Focus state management in SwiftUI. Or out of SwiftUI. Anything to do with responder chain in macOS feels intentionally designed to traumatize developers.
 
----
+### @parth220
+
+#### Apple Developer Enrollment can happen on MacOS, iPhone, and Web. The enrollment processing state machine is nondeterministic. Verification is hit or miss, some people get double charged, random delays on account activation.
 
 PRs welcomed (merging is at the discretion of my personal amusement).
 
