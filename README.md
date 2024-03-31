@@ -14,6 +14,8 @@
 
 #### Xcode
 
+#### [Dev-rel around SwiftSyntax's coupling with SwiftPM](https://forums.swift.org/t/compilation-extremely-slow-since-macros-adoption/67921/68)
+
 ### @dimillian
 
 #### `List` There is still no definitive way to keep the scroll position
