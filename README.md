@@ -36,6 +36,8 @@
 
 #### Apple Developer Enrollment can happen on MacOS, iPhone, and Web. The enrollment processing state machine is nondeterministic. Verification is hit or miss, some people get double charged, random delays on account activation.
 
+---
+
 PRs welcomed (merging is at the discretion of my personal amusement).
 
 Be civil. **Do not** target people. Highlight the obscene.
