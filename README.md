@@ -36,6 +36,9 @@
 
 #### Apple Developer Enrollment can happen on MacOS, iPhone, and Web. The enrollment processing state machine is nondeterministic. Verification is hit or miss, some people get double charged, random delays on account activation.
 
+### @PatrikTheDev
+
+#### If you have an expired payment method before starting Family Sharing and are _not_ the organizer, Apple will not let you pay for a Developer Membership (because your card is expired) but they also will not let you change it (generic error message).
 ---
 
 PRs welcomed (merging is at the discretion of my personal amusement).
